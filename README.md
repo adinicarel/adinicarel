@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @adinicarel
 
-- 🌱 I’m currently learning to program, code, design web pages and apps.
+- 🌱 I’m currently doing freelance web design.
 
 - 👀 I’m interested in creating and contributing to real projects in order to practice my knowledge and broaden my field of expertise.
 
-- 💞️ I’m looking to collaborate on projects to test my JavaScript, CSS, PHP new abilities. Looking forward to try new tools such as React, TypeScript...
+- 💞️ I’m looking to collaborate on projects to test my JavaScript, CSS, PHP, MySQL abilities. Looking forward to get involved in more complex work in React, TypeScript...
 
 
 <!---
